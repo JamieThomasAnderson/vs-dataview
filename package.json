@@ -3,6 +3,7 @@
   "displayName": "vs-dataview",
   "description": "markdown data tools",
   "version": "0.0.1",
+  "repository": "https://github.com/JamieThomasAnderson/vs-dataview.git",
   "engines": {
     "vscode": "^1.96.0"
   },
